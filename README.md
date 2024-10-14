@@ -35,5 +35,5 @@ OPTIONS
         -h, --help
                 Display this manual page
 		
-		-v, --version
+        -v, --version
                 Display the current version number
