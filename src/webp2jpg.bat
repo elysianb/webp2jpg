@@ -1,0 +1,1 @@
+@python %~dp0\webp2jpg.py %1
