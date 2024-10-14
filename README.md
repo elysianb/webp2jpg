@@ -1,6 +1,7 @@
 ﻿# Installation
 
 Install pillow, for image management
+
 `pip install pillow` 
 
 # Documentation
