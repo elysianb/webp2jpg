@@ -1,8 +1,16 @@
 ﻿# Installation
 
-Install pillow, for image management
+- Install python 
+
+- Install pip
+
+- Install pillow, for image management
 
 `pip install pillow` 
+
+- Extract binaries from a release into a local directory. Then, use it
+
+`webp2jpg --help` 
 
 # Documentation
 
