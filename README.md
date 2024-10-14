@@ -1,8 +1,12 @@
 ﻿# Installation
 
-- Install python 
+- Install python
+
+https://www.python.org/downloads/
 
 - Install pip
+
+https://pip.pypa.io/en/stable/installation/
 
 - Install pillow, for image management
 
