@@ -1,4 +1,11 @@
-﻿NAME
+﻿# Installation
+
+Install pillow, for image management
+`pip install pillow` 
+
+# Documentation
+
+NAME
 
         webp2jpg - convert webp images to jpeg images
 
